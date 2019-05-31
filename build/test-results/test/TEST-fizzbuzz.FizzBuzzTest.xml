@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fizzbuzz.FizzBuzzTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-31T16:59:04" hostname="LAddavila" time="0.004">
+  <properties/>
+  <testcase name="shouldReturnFizzWhenNumberIsMultipleOf3" classname="fizzbuzz.FizzBuzzTest" time="0.002"/>
+  <testcase name="shouldNotReturnNeitherFizzOrBuzzIfNumberIsNegative" classname="fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="shouldReturnBuzzWhenNumberIsMultipleOf5" classname="fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="shouldReturnTheSameNumberWhenNumberIsNotMultipleOf3Or5" classname="fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="shouldReturnFizzBuzzWhenNumberIsMultipleOf3And5" classname="fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
